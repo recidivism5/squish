@@ -1,0 +1,1 @@
+squish is a very simple general compression system.
